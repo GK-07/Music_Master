@@ -1,0 +1,10 @@
+  <script type="text/javascript" src="<?= base_url("resources/user/js/jquery.js")?>"></script>
+    <script type="text/javascript" src="<?= base_url("resources/user/js/bootstrap.min.js")?>"></script>
+    <script type="text/javascript" src="<?= base_url("resources/user/plugins/swiper/js/swiper.min.js")?>"></script>
+    <script type="text/javascript" src="<?= base_url("resources/user/js/plugins/player/jplayer.playlist.min.js")?>"></script>
+    <script type="text/javascript" src="<?= base_url("resources/user/js/plugins/player/jquery.jplayer.min.js")?>"></script>
+    <script type="text/javascript" src="<?= base_url("resources/user/js/plugins/player/audio-player.js")?>"></script>
+    <script type="text/javascript" src="<?= base_url("resources/user/js/plugins/player/volume.js")?>"></script>
+    <script type="text/javascript" src="<?= base_url("resources/user/js/plugins/nice_select/jquery.nice-select.min.js")?>"></script>
+	<script type="text/javascript" src="<?= base_url("resources/user/js/plugins/scroll/jquery.mCustomScrollbar.js")?>"></script>
+    <script type="text/javascript" src="<?= base_url("resources/user/js/custom.js")?>"></script>
